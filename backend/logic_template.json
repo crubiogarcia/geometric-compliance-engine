@@ -1,0 +1,22 @@
+{
+  "rule_structure": {
+    "element": "string",
+    "property": "string",
+    "operator": "string",
+    "value_mm": "number",
+    "context": "string",
+    "code document": "string",
+    "code section": "string",
+    "document page": "number"
+  },
+  "example": {
+    "element": "IfcDoor",
+    "property": "OverallWidth",
+    "operator": ">=",
+    "value_mm": 800,
+    "context": "interior doors",
+    "code document": "DBSUA",
+    "code section": "SUA 9",
+    "document page": "57"
+  }
+}

@@ -1,0 +1,2630 @@
+[
+    {
+        "expressID": 76108,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "height",
+                "actual": 2235.2,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2235.2,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 76263,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 76309,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 76419,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 813.000000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 813.000000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 76646,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 216278,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 216401,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 762.000000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 762.000000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 762.000000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 762.000000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 265925,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 761.999999999999,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 761.999999999999,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 761.999999999999,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 761.999999999999,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 266235,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 266283,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 266318,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 266353,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 266388,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 270905,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 271028,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 271074,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 547222,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 548657,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 548845,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 614466,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 614500,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 614534,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 614841,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 614875,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 813.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 614909,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 615090,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 618430,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 618661,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 800.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 619130,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 619164,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 619198,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 915.0,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2134.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 619717,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 624914,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 636744,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 636932,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 637081,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 637115,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 637149,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 637183,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657033,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657067,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657101,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657135,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657169,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657203,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657629,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657663,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657697,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657731,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.6,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657765,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 657799,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 800,
+                "issue": "minimum clear opening width for accessible doors",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 780,
+                "issue": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal distance from doors in parking areas to protective barriers",
+                "code document": "DBSUA",
+                "code section": "SUA 7, 3.2",
+                "document page": 27
+            },
+            {
+                "property": "width",
+                "actual": 609.600000000001,
+                "required": 1200,
+                "issue": "minimum horizontal clear diameter for the door swing area in accessible routes",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 36
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 659741,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 659789,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    },
+    {
+        "expressID": 659824,
+        "status": "FAIL",
+        "color": "#e74c3c",
+        "errors": [
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 50,
+                "issue": "maximum threshold height for terrace doors in accessible housing",
+                "code document": "DBSUA",
+                "code section": "Anejo A",
+                "document page": 41
+            },
+            {
+                "property": "height",
+                "actual": 2032.0,
+                "required": 12,
+                "issue": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+                "code document": "DBSUA",
+                "code section": "SUA 1, 2.a",
+                "document page": 9
+            }
+        ]
+    }
+]

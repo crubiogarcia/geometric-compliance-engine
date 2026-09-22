@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Geometric Compliance Engine</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    
+    <div class="header">
+        <h1>Geometric Compliance Engine</h1>
+    </div>
+    
+    <div class="upload-container">
+        <label for="file-input" class="upload-btn">
+            📁 Upload IFC File
+        </label>
+        <input type="file" id="file-input" accept=".ifc">
+    </div>
+    
+    <div id="viewer"></div>
+    
+    <div class="category-controls">
+        <h3>Categories</h3>
+        <div id="category-checkboxes"></div>
+        <div class="controls">
+            <button onclick="showAll()">All</button>
+            <button class="secondary" onclick="hideAll()">None</button>
+        </div>
+    </div>
+    
+    <div class="upload-code">
+        <label for="code-input" class="upload-btn">
+            📄 Upload Code File
+        </label>
+        <input type="file" id="code-input" accept=".pdf">
+    </div>
+    
+    <div class="check-code">
+        <button id="check-compliance-btn" class="upload-btn">
+            ✓ Check Compliance
+        </button>
+    </div>
+        
+    <script type="module">
+        import { generateCategoryCheckboxes } from './generate-checkboxes.js';
+        generateCategoryCheckboxes();
+    </script>
+    
+    <script type="module" src="./main.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+**/.env
+
+# Build output
+dist/
+
+# Large sample models (over GitHub's 100 MB limit)
+sample_files_ifc/20210219Architecture.ifc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kept locally only (licensing / third-party content)
+fonts/
+backend/pdf-test/
+sample_files_ifc/

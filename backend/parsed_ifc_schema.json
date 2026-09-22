@@ -1,0 +1,26 @@
+{
+    "schema_version": "1.0",
+    "target_entity": "IfcDoor",
+    "supported_properties": {
+        "width": {
+            "description": "The horizontal clear opening width of the door leaf or frame.",
+            "unit": "mm",
+            "ifc_mapping": "OverallWidth"
+        },
+        "height": {
+            "description": "The vertical clear opening height of the door.",
+            "unit": "mm",
+            "ifc_mapping": "OverallHeight"
+        },
+        "is_external": {
+            "description": "Boolean value indicating if the door faces the exterior (true) or interior (false).",
+            "unit": "boolean",
+            "ifc_mapping": "IsExternal"
+        }
+    },
+    "limitations": [
+        "No access to handle heights",
+        "No access to glass material properties",
+        "No access to closing force data"
+    ]
+}

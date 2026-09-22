@@ -1,0 +1,112 @@
+[
+    {
+        "element": "IfcDoor",
+        "property": "height",
+        "value_mm": 2000,
+        "operator": ">=",
+        "context": "minimum clear height at door thresholds",
+        "code document": "DBSUA",
+        "code section": "SUA 2, 1.1.1",
+        "document page": 17
+    },
+    {
+        "element": "IfcDoor",
+        "property": "width",
+        "value_mm": 800,
+        "operator": ">=",
+        "context": "minimum clear opening width for accessible doors",
+        "code document": "DBSUA",
+        "code section": "Anejo A",
+        "document page": 36
+    },
+    {
+        "element": "IfcDoor",
+        "property": "width",
+        "value_mm": 780,
+        "operator": ">=",
+        "context": "minimum clear opening width for accessible doors at maximum opening angle, accounting for leaf thickness",
+        "code document": "DBSUA",
+        "code section": "Anejo A",
+        "document page": 36
+    },
+    {
+        "element": "IfcDoor",
+        "property": "width",
+        "value_mm": 400,
+        "operator": ">=",
+        "context": "minimum horizontal distance from a door to the first step of a stair flight on a landing",
+        "code document": "DBSUA",
+        "code section": "SUA 1, 4.2.3.4",
+        "document page": 13
+    },
+    {
+        "element": "IfcDoor",
+        "property": "width",
+        "value_mm": 400,
+        "operator": ">=",
+        "context": "minimum horizontal distance from a door to the start of a ramp on a landing",
+        "code document": "DBSUA",
+        "code section": "SUA 1, 4.3.3.3",
+        "document page": 15
+    },
+    {
+        "element": "IfcDoor",
+        "property": "width",
+        "value_mm": 200,
+        "operator": ">=",
+        "context": "minimum horizontal clearance between a manual sliding door and the nearest fixed object",
+        "code document": "DBSUA",
+        "code section": "SUA 2, 2.1",
+        "document page": 19
+    },
+    {
+        "element": "IfcDoor",
+        "property": "width",
+        "value_mm": 1200,
+        "operator": ">=",
+        "context": "minimum horizontal distance from doors in parking areas to protective barriers",
+        "code document": "DBSUA",
+        "code section": "SUA 7, 3.2",
+        "document page": 27
+    },
+    {
+        "element": "IfcDoor",
+        "property": "width",
+        "value_mm": 300,
+        "operator": ">=",
+        "context": "minimum horizontal distance from the door opening mechanism to a corner in accessible routes",
+        "code document": "DBSUA",
+        "code section": "Anejo A",
+        "document page": 36
+    },
+    {
+        "element": "IfcDoor",
+        "property": "width",
+        "value_mm": 1200,
+        "operator": ">=",
+        "context": "minimum horizontal clear diameter for the door swing area in accessible routes",
+        "code document": "DBSUA",
+        "code section": "Anejo A",
+        "document page": 36
+    },
+    {
+        "element": "IfcDoor",
+        "property": "height",
+        "value_mm": 50,
+        "operator": "<=",
+        "context": "maximum threshold height for terrace doors in accessible housing",
+        "code document": "DBSUA",
+        "code section": "Anejo A",
+        "document page": 41
+    },
+    {
+        "element": "IfcDoor",
+        "property": "height",
+        "value_mm": 12,
+        "operator": "<=",
+        "context": "maximum height of door strikes or floor-mounted hardware to prevent tripping",
+        "code document": "DBSUA",
+        "code section": "SUA 1, 2.a",
+        "document page": 9
+    }
+]
